@@ -18,5 +18,6 @@
 <!-- Add more -->
 </div>
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Ioannis's Stats](https://github-readme-stats.vercel.app/api?username=ioannistselios&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioannistselios&layout=compact)
+
