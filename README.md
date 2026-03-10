@@ -10,3 +10,10 @@
 - Passionate about [your interests]
 - Pronouns: he/him
 - 🌱 Currently learning [tech]
+
+### 🛠️ Tech Stack
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<!-- Add more -->
+</div>
